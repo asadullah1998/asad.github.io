@@ -1,5 +1,9 @@
 <!DOCTYPE HTML>
-
+<!--
+	Prologue by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
 <html>
 	<head>
 		<title>Asad Ullah Data Portfolio</title>
@@ -160,8 +164,10 @@
 
 							<a href="#" class="image featured"><img src="images/Screenshot_1d.png" alt="" /></a>
 
-							<p>Seeking a opportunities in Data Analytics to incorporate my strong analytical and problem-solving skills in
-								discovering useful Data-Driven insights.</p>
+							<p>A technophile with a knack for Data Analytics. Love exploring and learning new technologies, 
+							always open to new challenges. My areas of interest include Problem Solving, Exploratory Data Analysis 
+							and Artificial Intelligence, Currently I'm Seeking a opportunities in Data Analytics to incorporate my 
+							strong analytical and problem-solving skills in discovering useful Data-Driven insights.</p>
 
 						</div>
 					</section>
